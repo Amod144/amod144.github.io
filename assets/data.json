@@ -1,0 +1,111 @@
+[
+  {
+    "songName": "Old Town Road",
+    "artist": "Lil Nas X",
+    "releaseDate": "August 2019",
+    "count": 100,
+    "imgUrl":"./assets/images/old.jpg",
+    "songPath":"./assets/Songs/Lil_Nas_X _Old_Town_Road.mp3"
+  }, 
+
+
+  {
+    "songName": "Kalla Sohna Nai",
+    "artist": "Akhil",
+    "releaseDate": "August 2019",
+    "count": 100,
+    "imgUrl":"./assets/images/kalla.jpg",
+    "songPath":"./assets/Songs/Kalla_Sohna_Nai.mp3"
+  }, 
+
+
+  {
+    "songName": "Tere Naino Mein",
+    "artist": "The Blitz and",
+    "releaseDate": "August 2019",
+    "count": 100,
+    "imgUrl":"./assets/images/tere_naino_mein.jpg",
+    "songPath":"./assets/Songs/Tere_Nainon _Mein.mp3"
+  }, 
+
+
+  {
+    "songName": "Mere Liye Tum Kaafi Ho",
+    "artist": "Ayushmann Khurrana.",
+    "releaseDate": "August 2019",
+    "count": 100,
+    "imgUrl":"./assets/images/mere_liye_tum_kaafi_ho.jpg",
+    "songPath":"./assets/Songs/Mere_Liye_Tum_Kaafi_Ho.mp3"
+  }, 
+  
+
+  {
+    "songName": "Goa Beach",
+    "artist": "Tony Kakkar",
+    "releaseDate": "August 2019",
+    "count": 100,
+    "imgUrl":"./assets/images/goa_beach.jpg",
+    "songPath":"./assets/Songs/Goa_Beach.mp3"
+  }, 
+
+  
+  {
+    "songName": "Buttabomma",
+    "artist": "Arman Mallik",
+    "releaseDate": "August 2019",
+    "count": 100,
+    "imgUrl":"./assets/images/buttabomma.jpg",
+    "songPath":"./assets/Songs/ButtaBomma.mp3"
+  }, 
+
+
+  {
+    "songName": "Ghungroo",
+    "artist": "Vishal & Shekhar",
+    "releaseDate": "August 2019",
+    "count": 100,
+    "imgUrl":"./assets/images/war.jpg",
+    "songPath":"./assets/Songs/Ghungroo.mp3"
+  }, 
+
+  
+  {
+    "songName": "Kaise Hua",
+    "artist": "Vishal Mishra",
+    "releaseDate": "August 2019",
+    "count": 100,
+    "imgUrl":"./assets/images/Kabir_Singh.jpg",
+    "songPath":"./assets/Songs/Kaise_Hua.mp3"
+  }, 
+
+  
+  {
+    "songName": "Attention",
+    "artist": "Charlie Puth",
+    "releaseDate": "August 2019",
+    "count": 100,
+    "imgUrl":"./assets/images/attention.jpg",
+    "songPath":"./assets/Songs/Attention.mp3"
+  }, 
+
+  
+  {
+    "songName": "Memories-Maroon 5",
+    "artist": "Maroon",
+    "releaseDate": "August 2019",
+    "count": 100,
+    "imgUrl":"./assets/images/memories.jpg",
+    "songPath":"./assets/Songs/Maroon5-Memories.mp3"
+  }, 
+
+  
+  {
+    "songName": "Tu Hi Yaar Mera",
+    "artist": "Arjit Singh",
+    "releaseDate": "August 2019",
+    "count": 100,
+    "imgUrl":"./assets/images/pati_patni_aur _woh.jpg",
+    "songPath":"./assets/Songs/Tu_Hi_Yaar_Mera.mp3"
+  } 
+
+]
